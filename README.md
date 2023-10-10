@@ -2,6 +2,9 @@
 python3 -m venv venv
 
 
-Run the application
-1. Add the lenders instaces hostname in services.py file
+## Run the application
+1. Add the lenders instaces hostname in `services.py` file
 2. flask --app=app run --debug
+
+#### Note:
+This app simply makes request response with hardcoded data.
