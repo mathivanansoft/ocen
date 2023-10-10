@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "version": "string",
+    "originatorOrgId": "O-1",
+    "originatorParticipantId": "OP-1",
+    "timestamp": "string",
+    "traceId": "string",
+    "requestId": "REQUEST-2"
+  },
+  "productData": {
+    "productId": "string",
+    "productNetworkId": "string"
+  },
+  "loanApplicationIds": [
+    "APP-1234"
+  ],
+  "consent": {
+    "consentFetchType": "ONETIME",
+    "vua": "string",
+    "description": "string",
+    "isAggregationEnabled": true,
+    "consentAggregationId": "string",
+    "consentHandle": "string",
+    "consentStatus": "READY",
+    "url": "string",
+    "extensibleData": {}
+  }
+}

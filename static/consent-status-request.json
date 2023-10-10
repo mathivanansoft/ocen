@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "version": "string",
+    "originatorOrgId": "string",
+    "originatorParticipantId": "string",
+    "timestamp": "string",
+    "traceId": "string",
+    "requestId": "string"
+  },
+  "productData": {
+    "productId": "P-1",
+    "productNetworkId": "PN-1"
+  },
+  "consentHandle": "string"
+}
